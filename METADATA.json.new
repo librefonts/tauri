@@ -1,0 +1,42 @@
+{
+  "name": "Tauri",
+  "designer": "Yvonne Schüttler",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 22825,
+  "fonts": [
+    {
+      "name": "Tauri",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Tauri-Regular-TTF.ttf",
+      "postScriptName": "TauriRegular",
+      "fullName": "Tauri-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name 'Tauri'."
+    },
+    {
+      "name": "Tauri",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Tauri-Regular-OTF.ttf",
+      "postScriptName": "TauriRegular",
+      "fullName": "TauriRegular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Tauri'."
+    },
+    {
+      "name": "Tauri",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Tauri-Regular.ttf",
+      "postScriptName": "TauriRegular",
+      "fullName": "Tauri-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Tauri'."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2013-02-27"
+}
